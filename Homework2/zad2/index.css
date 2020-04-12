@@ -1,0 +1,41 @@
+.blocks {
+    background-color: rgb(80, 80, 226);
+    color:rgb(80, 80, 226);
+    border-radius: 15%;
+    margin:5px;
+    width:50px;
+    height:50px;
+    border: rgb(19, 12, 122);
+    text-align:center;
+}
+.blocks2 {
+    background-color: rgb(80, 80, 226);
+    color:#FFF;
+    border-radius: 15%;
+    margin:5px;
+    width:50px;
+    height:50px;
+    border: rgb(19, 12, 122);
+    text-align:center;
+}
+#XO_table{
+    background-color: rgb(19, 12, 122);
+    width:190px;
+    border-radius: 7%;
+    height:190px;
+    padding:10px;
+    margin: 0 auto;
+
+}
+#Player{
+    position: absolute;
+    right: 43%;
+    background-color: rgb(80, 80, 226);
+    border: rgb(19, 12, 122);
+    width:190px;
+    color: #FFF;
+    height:50px;
+    padding:10px;
+    margin: auto;
+
+}

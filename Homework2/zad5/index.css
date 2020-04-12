@@ -1,0 +1,59 @@
+.option{
+
+    background-color:  rgb(2, 131, 252);
+    border: rgb(19, 12, 122);
+    width:150px;
+    color: #FFF;
+    height:40px;
+    padding:10px;
+}
+#options{
+    position: absolute;
+    margin: 0 auto;
+    right: 35%;
+}
+#buttons{
+    position: absolute;
+    margin: 0 auto;
+    right: 42%;
+}
+#timer{
+    position: absolute;
+    font-size: 50px;
+    margin: 20px;
+    right: 46%;
+}
+#stop
+{   position: relative;
+    background-color: rgb(38, 103, 241);
+    border: rgb(19, 12, 122);
+    width:80px;
+    color: #FFF;
+    height:40px;
+    padding:10px;
+    margin: 5px;  
+}
+#start
+{   position: relative;
+    background-color: rgb(19, 12, 122);
+    border: rgb(19, 12, 122);
+    width:80px;
+    color: #FFF;
+    height:40px;
+    padding:10px;
+    margin: 5px;  
+}
+#reset
+{   position: relative;
+    background-color: rgb(109, 177, 255);
+    border: rgb(19, 12, 122);
+    width:80px;
+    color: #FFF;
+    height:40px;
+    padding:10px;
+    margin: 5px;  
+}
+#music
+{
+    display: none;
+}

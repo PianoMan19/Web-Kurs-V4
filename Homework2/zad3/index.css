@@ -1,0 +1,64 @@
+
+.blocks {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background-color: rgb(80, 80, 226);
+    color:#FFF;
+    border-radius: 15%;
+    margin:5px;
+    width:25px;
+    height:25px;
+    border: rgb(19, 12, 122);
+    text-align:center;
+}
+.XO_table{
+    display: inline-block;
+    position: relative;
+    background-color: rgb(19, 12, 122);
+    border: rgb(19, 12, 122);
+    color:#FFF;
+    text-align:center;
+    width:60px;
+    border-radius: 7%;
+    height:60px;
+    padding:10px;
+    margin: 3px;
+
+}
+.XO_table2{
+    position: relative;
+    background-color: rgb(19, 12, 122);
+    border: rgb(19, 12, 122);
+    color:#FFF;
+    text-align:center;
+    width:40px;
+    border-radius: 7%;
+    height:40px;
+    padding:10px;
+
+}
+#palindrome{
+    position: absolute;
+    right: 43%;
+    background-color:  rgb(80, 80, 226);
+    border: rgb(19, 12, 122);
+    width:190px;
+    color: #FFF;
+    height:50px;
+    padding:10px;
+    margin: auto;
+
+}
+#add{
+    position: relative;
+    background-color: rgb(19, 12, 122);
+    border-radius: 10%;
+    border: rgb(19, 12, 122);
+    width:80px;
+    color: #FFF;
+    height:40px;
+    padding:10px;
+    margin: 3px;
+
+}
